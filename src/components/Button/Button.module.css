@@ -1,0 +1,16 @@
+.button {
+  background-color: red;
+  letter-spacing: 1px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  border: 1 px solid;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px 10px 10px 10px;
+}
+button:hover {
+  color: white;
+  background-color: green;
+}
